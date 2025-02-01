@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+SV888 - Nền tảng hàng đầu, uy tín và đa dạng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`SV888 <https://sv888.blue/>`_ là sân chơi trực tuyến hàng đầu, nổi bật với sự đa dạng và an toàn tối ưu trong trải nghiệm chơi game. Thành lập năm 2001 tại Manchester và gia nhập thị trường Việt Nam năm 2020, SV888 nhanh chóng được yêu thích nhờ giao diện hiện đại, kho trò chơi phong phú, và tỷ lệ thắng hấp dẫn.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Người chơi có thể tham gia các sản phẩm như thể thao, game bài đổi thưởng, đá gà, xổ số, bắn cá, và nổ hũ. Với giao dịch nhanh chóng, bảo mật cao, hỗ trợ khách hàng 24/7, cùng nhiều khuyến mãi hấp dẫn, SV888 mang đến không gian giải trí chuyên nghiệp và minh bạch.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 76 Đ. Tên Lửa, An Lạc A, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0917836361. 
 
-.. toctree::
+Email: info@sv888.blue. 
 
-   usage
-   api
+Website: https://sv888.blue/
+
+#sv888 #trangchusv888 #dangkysv888 #dangnhapsv888 #linksv888
